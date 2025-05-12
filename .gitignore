@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl  # Exclude model files (too large for Git)
+venv/
+
+# Node/JS
+node_modules/
+dist/
+
+# Environment files
+.env
+.env.local
+
+# System
+.DS_Store
+
+models/*.pkl
+data/*.csv

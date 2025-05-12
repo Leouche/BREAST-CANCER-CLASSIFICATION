@@ -1,7 +1,6 @@
 # Python
 __pycache__/
 *.py[cod]
-*.pkl  # Exclude model files (too large for Git)
 venv/
 
 # Node/JS
@@ -15,5 +14,4 @@ dist/
 # System
 .DS_Store
 
-models/*.pkl
 data/*.csv
